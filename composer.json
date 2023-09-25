@@ -1,0 +1,10 @@
+{
+    "name":"ledanthuan/shop-thoi-trang",
+    "description":"xay dung website ban hang",
+    "autoload":{
+        "psr-4":{
+            "Src\\":"application/"
+        }
+    },
+    "requite":{}
+}
