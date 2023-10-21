@@ -1,10 +1,23 @@
 {
     "name":"ledanthuan/shop-thoi-trang",
     "description":"xay dung website ban hang",
+    "authors":[
+        {
+            "name":"Le Dan Thuan",
+            "email":"ledanthuan2709@gmail.com"
+        }
+    ],
     "autoload":{
         "psr-4":{
-            "Src\\":"application/"
-        }
+            "App\\":"app/"
+        },
+        "files":[
+            "./app/Route.php",
+            "./config/database.php"
+        ]
     },
-    "requite":{}
+    "require":{
+        "illuminate/database": "^10.26",
+        "illuminate/events": "^10.26"
+    }     
 }

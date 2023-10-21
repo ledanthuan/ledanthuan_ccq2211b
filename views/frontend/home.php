@@ -5,10 +5,10 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>Trang chủ</title>
-   <link rel="stylesheet" href="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/bootstrap/css/bootstrap.min.css">
-   <link rel="stylesheet" href="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/fontawesome/css/all.min.css">
-   <link rel="stylesheet" href="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/css/frontend.css">
-   <script src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/bootstrap/js/bootstrap.bundle.min.js"></script>
+   <link rel="stylesheet" href="public/bootstrap/css/bootstrap.min.css">
+   <link rel="stylesheet" href="public/fontawesome/css/all.min.css">
+   <link rel="stylesheet" href="public/css/frontend.css">
+   <script src="public/bootstrap/js/bootstrap.bundle.min.js"></script>
 </head>
 
 <body>
@@ -17,7 +17,7 @@
          <div class="row">
             <div class="col-6 col-sm-6 col-md-2 py-1">
                <a href="index.html">
-                  <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/logo.png" class="img-fluid" alt="Logo">
+                  <img src="public/images/logo.png" class="img-fluid" alt="Logo">
                </a>
             </div>
             <div class="col-12 col-sm-9 d-none d-md-block col-md-5 py-3">
@@ -139,13 +139,13 @@
       <div id="carouselExample" class="carousel slide">
          <div class="carousel-inner">
             <div class="carousel-item active">
-               <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/banner/slider_1.jpg" class="d-block w-100" alt="...">
+               <img src="public/images/banner/slider_1.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-               <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/banner/slider_2.jpg" class="d-block w-100" alt="...">
+               <img src="public/images/banner/slider_2.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-               <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/banner/slider_3.jpg" class="d-block w-100" alt="...">
+               <img src="public/images/banner/slider_3.jpg" class="d-block w-100" alt="...">
             </div>
          </div>
          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -165,7 +165,7 @@
                <div class="col-md-3">
                   <div class="category-title bg-main">
                      <h1 class="fs-5 py-3 text-center text-uppercase">THỜI TRANG NAM</h1>
-                     <img class="img-fluid d-none d-md-block" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/category/thoi-trang-nam.png"
+                     <img class="img-fluid d-none d-md-block" src="public/images/category/thoi-trang-nam.png"
                         alt="category.jpg">
                   </div>
                </div>
@@ -175,9 +175,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nam-1.jpg" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-nam-1.jpg" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nam-2.jpg" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-nam-2.jpg" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -194,9 +194,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nam-1.jpg" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-nam-1.jpg" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nam-2.jpg" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-nam-2.jpg" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -213,9 +213,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nam-1.jpg" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-nam-1.jpg" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nam-2.jpg" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-nam-2.jpg" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -232,9 +232,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nam-1.jpg" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-nam-1.jpg" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nam-2.jpg" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-nam-2.jpg" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -251,9 +251,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nam-1.jpg" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-nam-1.jpg" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nam-2.jpg" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-nam-2.jpg" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -270,9 +270,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nam-1.jpg" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-nam-1.jpg" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nam-2.jpg" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-nam-2.jpg" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -289,9 +289,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nam-1.jpg" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-nam-1.jpg" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nam-2.jpg" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-nam-2.jpg" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -308,9 +308,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nam-1.jpg" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-nam-1.jpg" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nam-2.jpg" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-nam-2.jpg" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -332,7 +332,7 @@
                <div class="col-md-3">
                   <div class="category-title bg-main">
                      <h3 class="fs-5 py-3 text-center text-uppercase">THỜI TRANG NỮ</h3>
-                     <img class="img-fluid d-none d-md-block" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/category/thoi-trang-nu.png" alt="">
+                     <img class="img-fluid d-none d-md-block" src="public/images/category/thoi-trang-nu.png" alt="">
                   </div>
                </div>
                <div class="col-md-9">
@@ -341,9 +341,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nu-1.jpg" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-nu-1.jpg" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nu-2.jpg" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-nu-2.jpg" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -360,9 +360,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nu-1.jpg" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-nu-1.jpg" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nu-2.jpg" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-nu-2.jpg" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -379,9 +379,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nu-1.jpg" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-nu-1.jpg" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nu-2.jpg" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-nu-2.jpg" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -398,9 +398,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nu-1.jpg" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-nu-1.jpg" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nu-2.jpg" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-nu-2.jpg" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -417,9 +417,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nu-1.jpg" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-nu-1.jpg" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nu-2.jpg" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-nu-2.jpg" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -436,9 +436,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nu-1.jpg" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-nu-1.jpg" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nu-2.jpg" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-nu-2.jpg" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -455,9 +455,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nu-1.jpg" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-nu-1.jpg" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nu-2.jpg" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-nu-2.jpg" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -474,9 +474,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nu-1.jpg" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-nu-1.jpg" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-nu-2.jpg" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-nu-2.jpg" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -498,7 +498,7 @@
                <div class="col-md-3">
                   <div class="category-title bg-main">
                      <h3 class="fs-5 py-3 text-center text-uppercase">THỜI TRANG TRẺ EM</h3>
-                     <img class="img-fluid d-none d-md-block" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/category/thoi-trang-tre-em.png"
+                     <img class="img-fluid d-none d-md-block" src="public/images/category/thoi-trang-tre-em.png"
                         alt="">
                   </div>
                </div>
@@ -508,9 +508,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-tre-em-1.webp" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-tre-em-1.webp" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-tre-em-2.webp" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-tre-em-2.webp" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -529,9 +529,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-tre-em-1.webp" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-tre-em-1.webp" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-tre-em-2.webp" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-tre-em-2.webp" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -550,9 +550,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-tre-em-1.webp" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-tre-em-1.webp" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-tre-em-2.webp" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-tre-em-2.webp" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -571,9 +571,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-tre-em-1.webp" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-tre-em-1.webp" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-tre-em-2.webp" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-tre-em-2.webp" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -592,9 +592,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-tre-em-1.webp" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-tre-em-1.webp" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-tre-em-2.webp" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-tre-em-2.webp" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -613,9 +613,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-tre-em-1.webp" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-tre-em-1.webp" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-tre-em-2.webp" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-tre-em-2.webp" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -634,9 +634,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-tre-em-1.webp" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-tre-em-1.webp" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-tre-em-2.webp" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-tre-em-2.webp" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -655,9 +655,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-tre-em-1.webp" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-tre-em-1.webp" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-tre-em-2.webp" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-tre-em-2.webp" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -681,7 +681,7 @@
                <div class="col-md-3">
                   <div class="category-title bg-main">
                      <h3 class="fs-5 py-3 text-center text-uppercase">THỜI TRANG THỂ THAO</h3>
-                     <img class="img-fluid d-none d-md-block" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/category/thoi-trang-the-thao.png"
+                     <img class="img-fluid d-none d-md-block" src="public/images/category/thoi-trang-the-thao.png"
                         alt="">
                   </div>
                </div>
@@ -691,9 +691,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-the-thao-1.webp" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-the-thao-1.webp" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-the-thao-2.webp" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-the-thao-2.webp" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -710,9 +710,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-the-thao-1.webp" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-the-thao-1.webp" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-the-thao-2.webp" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-the-thao-2.webp" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -729,9 +729,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-the-thao-1.webp" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-the-thao-1.webp" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-the-thao-2.webp" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-the-thao-2.webp" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -748,9 +748,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-the-thao-1.webp" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-the-thao-1.webp" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-the-thao-2.webp" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-the-thao-2.webp" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -767,9 +767,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-the-thao-1.webp" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-the-thao-1.webp" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-the-thao-2.webp" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-the-thao-2.webp" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -786,9 +786,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-the-thao-1.webp" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-the-thao-1.webp" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-the-thao-2.webp" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-the-thao-2.webp" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -805,9 +805,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-the-thao-1.webp" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-the-thao-1.webp" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-the-thao-2.webp" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-the-thao-2.webp" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -824,9 +824,9 @@
                         <div class="product-item border">
                            <div class="product-item-image">
                               <a href="product_detail.html">
-                                 <img src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-the-thao-1.webp" class="img-fluid" alt=""
+                                 <img src="public/images/product/thoi-trang-the-thao-1.webp" class="img-fluid" alt=""
                                     id="img1">
-                                 <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/product/thoi-trang-the-thao-2.webp" alt=""
+                                 <img class="img-fluid" src="public/images/product/thoi-trang-the-thao-2.webp" alt=""
                                     id="img2">
                               </a>
                            </div>
@@ -853,7 +853,7 @@
                <div class="row">
                   <div class="col-md-6">
                      <a href="post_detail.html">
-                        <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/post/post-4.webp" />
+                        <img class="img-fluid" src="public/images/post/post-4.webp" />
                      </a>
                      <h3 class="post-title fs-4 py-2">
                         <a href="post_detail.html">
@@ -868,7 +868,7 @@
                      <div class="row mb-3">
                         <div class="col-md-4">
                            <a href="post_detail.html">
-                              <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/post/post-1.jpg" />
+                              <img class="img-fluid" src="public/images/post/post-1.jpg" />
                            </a>
                         </div>
                         <div class="col-md-8">
@@ -883,7 +883,7 @@
                      <div class="row mb-3">
                         <div class="col-md-4">
                            <a href="post_detail.html">
-                              <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/post/post-2.jpg" />
+                              <img class="img-fluid" src="public/images/post/post-2.jpg" />
                            </a>
                         </div>
                         <div class="col-md-8">
@@ -898,7 +898,7 @@
                      <div class="row mb-3">
                         <div class="col-md-4">
                            <a href="post_detail.html">
-                              <img class="img-fluid" src="/Website/PHP/LeDanThuan_CCQ2122110052AB/public/images/post/post-3.jpg" />
+                              <img class="img-fluid" src="public/images/post/post-3.jpg" />
                            </a>
                         </div>
                         <div class="col-md-8">
